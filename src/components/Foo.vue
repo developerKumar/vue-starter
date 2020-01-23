@@ -1,7 +1,7 @@
 <template>
   <div class="hello">
     This is Foo.....................
-    <div>And counter is {{ counterValue }}</div>
+    <div class="counter">{{ counterValue }}</div>
     <button @click="add">Increment</button>
   </div>
 </template>
