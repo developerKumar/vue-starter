@@ -20,7 +20,7 @@ import Vue from "vue";
 // import HelloWorld from "./components/HelloWorld.vue";
 
 export default Vue.extend({
-  name: "app",
+  name: "app"
   // components: {
   //   HelloWorld
   // }
@@ -37,6 +37,6 @@ export default Vue.extend({
   margin-top: 60px;
 }
 p a {
-  margin: 10px
+  margin: 10px;
 }
 </style>

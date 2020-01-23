@@ -22,3 +22,7 @@ npm run lint
 
 ### Customize configuration
 See [Configuration Reference](https://cli.vuejs.org/config/).
+
+
+### Help for typescript vue
+See [properties] (https://alligator.io/vuejs/typescript-class-components/)
